@@ -20,7 +20,7 @@
 Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Thank you!!
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/DogeBot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/N17R0-HACKERS/DogeBot-1/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -61,8 +61,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
-🦄 cd DogeBot
+🦄 git clone https://github.com/N17R0-HACKERS/DogeBot-1
+🦄 cd DogeBot-1
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
@@ -73,7 +73,7 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+918591220868"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
@@ -85,4 +85,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`Xeon`](https://github.com/N17R0-HACKERS)
