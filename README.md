@@ -20,7 +20,7 @@
 Had 5+ stars and 90+ forks, please dont forget to give star before forking.🙏🙇🏼‍♂️Thank you!!
 
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/N17R0-HACKERS/DogeBot-1/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/N17R0-HACKERS/DogeBot/)
 
 
 # Requirements
@@ -41,12 +41,12 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/N17R0-HACKERS/DogeBot-1/blob/master/session.json#L1)
+[`Click Here`](https://github.com/N17R0-HACKERS/DogeBot/blob/master/session.json#L1)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/N17R0-HACKERS/DogeBot.git
 🦄 cd DogeBot
 🦄 npm start
 ```
@@ -62,8 +62,8 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/N17R0-HACKERS/DogeBot-1
-🦄 cd DogeBot-1
+🦄 git clone https://github.com/N17R0-HACKERS/DogeBot
+🦄 cd DogeBot
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
