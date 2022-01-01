@@ -1,4 +1,4 @@
-// Script by Xeon 
+// Script by WHOIAM 
 // 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
 // ©Xeon Bot Incorporated
 const {
@@ -139,9 +139,9 @@ nopref = true
 numbernye = '0'
 autoketik = false;
 prefixStatus = false;
-targetpc = "916909137213"; 
-owner = "916909137213"; 
-fakeyoi = "Xeon"; 
+targetpc = "918591220868"; 
+owner = "918591220868"; 
+fakeyoi = "WHOIAM"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
@@ -150,7 +150,7 @@ zeksapi = "vallganz5",
 dapapi = "anakasu",
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
-nomorowner1 = "@916909137213"; 
+nomorowner1 = "@918591220868"; 
 fake = `𝗢𝘄𝗻𝗲𝗿 : ${fakeyoi}\n㋛︎ 𝗣𝗿𝗲𝗳𝗶𝘅 :「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」`;
 thumb = fs.readFileSync("./stik/thumb.jpeg"); 
 numbernye = "0"; 
@@ -349,7 +349,7 @@ const checkRegisteredUser = (sender) => {
       ? mek.participant
       : mek.key.remoteJid;
     const totalchat = await xeon.chats.all();
-    const ownerNumber = [`916909137213@s.whatsapp.net`]
+    const ownerNumber = [`918591220868@s.whatsapp.net`]
 	const senderNumber = sender.split("@")[0] 
     const m = simple.smsg(xeon, mek);
     const groupMetadata = isGroup ? await xeon.groupMetadata(from) : "";
@@ -451,7 +451,7 @@ const math = (teks) => {
            return Math.floor(teks)
        }
 /*const reply = (teks) => {
-			xeon.sendMessage(from, teks, text, { thumbnail: iye, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `${jam} - ${week} ${weton} - ${date}`,body:"",previewType:"PHOTO",thumbnail:iye,sourceUrl:`https://wa.me/916909137213?text=hello`}}})
+			xeon.sendMessage(from, teks, text, { thumbnail: iye, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `${jam} - ${week} ${weton} - ${date}`,body:"",previewType:"PHOTO",thumbnail:iye,sourceUrl:`https://wa.me/918591220868?text=hello`}}})
 		}*/
     const sendMess = (hehe, teks) => {
       xeon.sendMessage(hehe, teks, text);
@@ -472,7 +472,7 @@ const math = (teks) => {
       key: {
         fromMe: false,
         participant: "0@s.whatsapp.net",
-        remoteJid: "6289523258649-1604595598@g.us",
+        remoteJid: "918591220886-1604595598@g.us",
       },
       message: {
         orderMessage: {
